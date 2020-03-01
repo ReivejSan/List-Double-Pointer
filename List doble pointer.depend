@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1575423612 source:d:\kuliah\psda 9\list doble pointer\main.c
+	"dp.h"
+
+1575423330 d:\kuliah\psda 9\list doble pointer\dp.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1575423614 source:d:\kuliah\psda 9\list doble pointer\dp.c
+	"dp.h"
+
